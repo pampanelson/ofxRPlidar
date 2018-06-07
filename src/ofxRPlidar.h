@@ -15,6 +15,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #include <string>
 #include "ofTypes.h"
 #include "ofThread.h"
+#include "ofSerial.h" // manual add include file with of 0.10.0 =========== pampa
 #include "rplidar.h" //RPLIDAR standard sdk, all-in-one header
 
 namespace rp { namespace standalone { namespace rplidar {
